@@ -1,0 +1,22 @@
+#e1(19Feb2025:11:11:51): source ./xcelium.d/env.d/env.history.19Feb2025_11_11_51
+s1(19Feb2025:11:11:51):  xrun alu.sv alu_tb_simples.sv 
+#e2(19Feb2025:11:12:45): source ./xcelium.d/env.d/env.history.19Feb2025_11_12_45
+s2(19Feb2025:11:12:45):  xrun alu.sv alu_tb_simples.sv 
+#e3(19Feb2025:11:29:15): source ./xcelium.d/env.d/env.history.19Feb2025_11_29_15
+s3(19Feb2025:11:29:15):  xrun alu.sv alu_tb_simples.sv 
+#e4(19Feb2025:11:29:40): source ./xcelium.d/env.d/env.history.19Feb2025_11_29_40
+s4(19Feb2025:11:29:40):  xrun alu.sv alu_tb_selfcheck.sv 
+#e5(19Feb2025:11:30:24): source ./xcelium.d/env.d/env.history.19Feb2025_11_30_24
+s5(19Feb2025:11:30:24):  xrun alu.sv alu_tb_testvectors.sv 
+#e6(19Feb2025:11:34:18): source ./xcelium.d/env.d/env.history.19Feb2025_11_34_18
+s6(19Feb2025:11:34:18):  xrun alu.sv alu_tb_testvectors.sv 
+#e7(19Feb2025:11:38:22): source ./xcelium.d/env.d/env.history.19Feb2025_11_38_22
+s7(19Feb2025:11:38:22):  xrun alu.sv alu_tb_testvectors.sv 
+#e8(19Feb2025:14:06:36): source ./xcelium.d/env.d/env.history.19Feb2025_14_06_36
+s8(19Feb2025:14:06:36):  xrun alu.sv alu_tb_testvectors.sv 
+#e9(19Feb2025:14:12:20): source ./xcelium.d/env.d/env.history.19Feb2025_14_12_20
+s9(19Feb2025:14:12:20):  xrun alu.sv alu_tb_testvectors.sv 
+#e10(19Feb2025:14:26:11): source ./xcelium.d/env.d/env.history.19Feb2025_14_26_11
+s10(19Feb2025:14:26:11):  xrun alu.sv alu_tb_testvectors.sv 
+#e11(19Feb2025:14:27:52): source ./xcelium.d/env.d/env.history.19Feb2025_14_27_52
+s11(19Feb2025:14:27:52):  xrun alu.sv alu_tb_testvectors.sv 

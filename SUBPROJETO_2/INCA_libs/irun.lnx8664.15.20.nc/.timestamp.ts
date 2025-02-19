@@ -1,0 +1,12 @@
+1739987588 /home/cinovador/Documents/LAB_CI_Inovador_atividades/Introducao_a_Verificacao/Projeto_Final/SUBPROJETO_2/scoreboard.sv
+1739987588 /home/cinovador/Documents/LAB_CI_Inovador_atividades/Introducao_a_Verificacao/Projeto_Final/SUBPROJETO_2/interface.sv
+1739987588 /home/cinovador/Documents/LAB_CI_Inovador_atividades/Introducao_a_Verificacao/Projeto_Final/SUBPROJETO_2/sequencer.sv
+1739987588 /home/cinovador/Documents/LAB_CI_Inovador_atividades/Introducao_a_Verificacao/Projeto_Final/SUBPROJETO_2/env.sv
+1739987588 /home/cinovador/Documents/LAB_CI_Inovador_atividades/Introducao_a_Verificacao/Projeto_Final/SUBPROJETO_2/testbench.sv
+1739987588 /home/cinovador/Documents/LAB_CI_Inovador_atividades/Introducao_a_Verificacao/Projeto_Final/SUBPROJETO_2/test.sv
+1739987588 /home/cinovador/Documents/LAB_CI_Inovador_atividades/Introducao_a_Verificacao/Projeto_Final/SUBPROJETO_2/driver.sv
+1739987588 /home/cinovador/Documents/LAB_CI_Inovador_atividades/Introducao_a_Verificacao/Projeto_Final/SUBPROJETO_2/design.sv
+1739987588 /home/cinovador/Documents/LAB_CI_Inovador_atividades/Introducao_a_Verificacao/Projeto_Final/SUBPROJETO_2/agent.sv
+1739987588 /home/cinovador/Documents/LAB_CI_Inovador_atividades/Introducao_a_Verificacao/Projeto_Final/SUBPROJETO_2/sequence.sv
+1739987588 /home/cinovador/Documents/LAB_CI_Inovador_atividades/Introducao_a_Verificacao/Projeto_Final/SUBPROJETO_2/monitor.sv
+1739987588 /home/cinovador/Documents/LAB_CI_Inovador_atividades/Introducao_a_Verificacao/Projeto_Final/SUBPROJETO_2/sequence_item.sv

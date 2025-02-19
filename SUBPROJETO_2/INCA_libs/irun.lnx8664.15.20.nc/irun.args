@@ -1,0 +1,13 @@
+//
+// File created by:  irun
+// Do not modify this file
+//
+-access
++r
+-uvm
++uvm_set_config_int=*,recording_detail,1
+design.sv
+testbench.sv
++UVM_VERBOSITY=LOW
+-timescale
+1ns/1ps
