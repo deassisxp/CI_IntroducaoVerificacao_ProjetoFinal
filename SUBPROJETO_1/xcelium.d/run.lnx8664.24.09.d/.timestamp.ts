@@ -1,4 +1,0 @@
-1739984793 /home/cinovador/Documents/LAB_CI_Inovador_atividades/Introducao_a_Verificacao/Projeto_Final/alu_tb_testvectors.sv
-1739974347 /home/cinovador/Documents/LAB_CI_Inovador_atividades/Introducao_a_Verificacao/Projeto_Final/alu_tb_selfcheck.sv
-1739970095 /home/cinovador/Documents/LAB_CI_Inovador_atividades/Introducao_a_Verificacao/Projeto_Final/alu.sv
-1739974359 /home/cinovador/Documents/LAB_CI_Inovador_atividades/Introducao_a_Verificacao/Projeto_Final/alu_tb_simples.sv

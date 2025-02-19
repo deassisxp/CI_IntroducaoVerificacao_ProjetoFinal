@@ -1,8 +1,0 @@
-//
-// File created by:  irun
-// Do not modify this file
-
-s1::(19Feb2025:14:58:01):( irun -access +r -uvm +uvm_set_config_int=*,recording_detail,1 +incdir+../bvm agent.sv design.sv driver.sv env.sv interface.sv monitor.sv scoreboard.sv sequence_item.sv sequencer.sv sequence.sv testbench.sv test.sv +UVM_VERBOSITY=LOW )
-s2::(19Feb2025:14:59:21):( irun -access +r -uvm +uvm_set_config_int=*,recording_detail,1 agent.sv design.sv driver.sv env.sv interface.sv monitor.sv scoreboard.sv sequence_item.sv sequencer.sv sequence.sv testbench.sv test.sv +UVM_VERBOSITY=LOW )
-s3::(19Feb2025:15:00:38):( irun -access +r -uvm +uvm_set_config_int=*,recording_detail,1 design.sv testbench.sv +UVM_VERBOSITY=LOW )
-s4::(19Feb2025:15:01:03):( irun -access +r -uvm +uvm_set_config_int=*,recording_detail,1 design.sv testbench.sv +UVM_VERBOSITY=LOW -timescale 1ns/1ps )
