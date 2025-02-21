@@ -54,4 +54,8 @@ module alu_tb_simples;
 
         $finish;
     end
+    initial begin
+    $dumpfile("d.vcd");
+    $dumpvars();
+    end
 endmodule
