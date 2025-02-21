@@ -51,4 +51,8 @@ module alu_tb_selfcheck;
 
         $finish;
     end
+    initial begin
+    $dumpfile("d.vcd");
+    $dumpvars();
+    end
 endmodule
